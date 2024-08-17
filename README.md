@@ -1,2 +1,2 @@
 # Bunny-Theme
-A nice underwater theme i made
+A nice underwater discord theme i made
